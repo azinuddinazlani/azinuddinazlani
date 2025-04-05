@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Azin</h1>
 <h3 align="center">A passionate python developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I'm currently learning **AWS**
+- 🚀 Certified software & AI engineer from Gamuda AI Academy in 2025
+- 🔧 Yayasan Peneraju DevOps scholar with Certified Kubernetes Administrator (CKA) in 2024
+- 💻 Self-Taught Python programmer since 2023
+- 📊 Policy governance analyst since 2021
 
-- ⚡ Fun fact **I am mobile legend bang bang player**
+- ⚡ Fun fact: **I am a Mobile Legend Bang Bang player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/azinuddinazlani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azinuddinazlani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
