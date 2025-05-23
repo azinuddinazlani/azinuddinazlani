@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning **AWS**
 - 🚀 Certified software & AI engineer from Gamuda AI Academy in 2025
 - 🔧 Yayasan Peneraju DevOps scholar with Certified Kubernetes Administrator (CKA) and Convergence Certification & Skill Development Council (CCSD) in 2024
-- 💻 Self-Taught Python programmer since 2023
+- 💻 Self-Taught Python programmer
 - 📊 Policy governance analyst since 2021
 
 - ⚡ Fun fact: **I am a Mobile Legend Bang Bang player**
